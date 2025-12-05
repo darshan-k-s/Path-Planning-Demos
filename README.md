@@ -1,6 +1,6 @@
 # Path-Planning-Demos
 
-Small collection of vision-based path planning demos for the **MTRN3100** assignment.  
+Small collection of vision-based path planning demos.  
 The notebook builds an occupancy map from an input image, runs a search-based planner to find a collision-free path from start to goal, and visualises the result.
 
 ![RRT* planning demo](image.png)
